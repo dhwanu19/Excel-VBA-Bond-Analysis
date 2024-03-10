@@ -14,7 +14,7 @@ This project aims to assist Jackson, a recent actuarial graduate, in planning hi
 
 ## Structure
 
-The Excel file, `Home_Deposit_Investment_Strategy.xlsx`, contains multiple sheets, each dedicated to specific aspects of the analysis:
+The Excel file, `Excel-VBA-Investment-Analysis.xlsx`, contains multiple sheets, each dedicated to specific aspects of the analysis:
 - Income and Investment: Breakdown of monthly income and investment allocations.
 - Investment Options: Detailed analysis of the three investment strategies.
 - Risky Asset X: Simulation of returns for the risky asset under varying market conditions.
