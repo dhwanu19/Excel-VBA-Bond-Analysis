@@ -20,7 +20,4 @@ The Excel file, `Excel-VBA-Investment-Analysis.xlsx`, contains multiple sheets, 
 - Risky Asset X: Simulation of returns for the risky asset under varying market conditions.
 - Summary and Recommendations: Overview of findings and tailored advice for Jackson based on the analysis.
 
-## Disclaimer
-
-This analysis is for educational purposes only and not financial advice. Investment strategies involve risks and should be approached with caution. Always consult with a professional financial advisor before making investment decisions.
 
